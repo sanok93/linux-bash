@@ -1,4 +1,4 @@
-sudo apt-get autoclean -y
-sudo apt-get clean -y
-sudo apt-get autoremove -y
+sudo apt-get autoclean
+sudo apt-get clean
+sudo apt-get autoremove
 reboot
